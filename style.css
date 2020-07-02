@@ -32,3 +32,14 @@ header
 {
     border: 1px solid white;
 }
+
+.main-nav li a:hover
+{
+    border: 1px solid white;
+}
+
+.logo img
+{
+    width: 100px;
+    height: auto;
+}
