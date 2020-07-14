@@ -9,4 +9,4 @@ Heres to hoping I actually follow through with it!
 Tom Kowalkowski
 
 # Version 
-0.01
+1.0.0
