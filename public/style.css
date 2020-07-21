@@ -5,17 +5,22 @@
 }
 header
 {
-    background-color: tomato;
-    /* background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(IMG_0935.jpg); */
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(IMG_0935.jpg);
     height: 100vh;
     background-size: cover;
     background-position: center;
 } 
 .main-nav
 {
-    float: right;
+    /* float: right;
     list-style: none;
-    margin-top: 30px;
+    margin-top: 30px; */
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30%;
+    /* padding-left: 30%; */
 }
 .main-nav li
 {
